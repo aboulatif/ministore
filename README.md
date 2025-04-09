@@ -1,1 +1,1 @@
-# ministore-1
+# ministore
