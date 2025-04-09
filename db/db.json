@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Sac à main élégant",
+      "price": 15000,
+      "description": "Sac à main en cuir véritable avec finitions dorées",
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&q=80&w=870"
+    },
+    {
+      "id": "2",
+      "name": "Montre luxueuse",
+      "price": 25000,
+      "description": "Montre analogique avec bracelet en acier inoxydable",
+      "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&q=80&w=870"
+    },
+    {
+      "id": "3",
+      "name": "Écharpe en soie",
+      "price": 30000,
+      "description": "Écharpe en soie pure avec motifs géométriques",
+      "image": "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?auto=format&fit=crop&q=80&w=870"
+    },
+    {
+      "id": "4",
+      "name": "Chaussures en cuir",
+      "price": 12000,
+      "description": "Chaussures en cuir véritable avec semelle en caoutchouc",
+      "image": "https://images.unsplash.com/photo-1506794778160-7009b5114a53?auto=format&fit=crop&q=80&w=870"
+    },
+    {
+      "id": "5",
+      "name": "Lunettes de soleil",
+      "price": 8000,
+      "description": "Lunettes de soleil avec verres polarisés",
+      "image": "https://images.unsplash.com/photo-1521747116042-5a810fda9664?auto=format&fit=crop&q=80&w=870"
+    }
+  ]
+}
